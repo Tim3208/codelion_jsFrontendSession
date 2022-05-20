@@ -1,0 +1,21 @@
+@import "qna.css";
+@import "main.css";
+@import "result.css";
+@import "animation.css";
+
+@font-face {
+  font-family: 'yg-jalnan';
+  src: url('https://noonnu.cc/font_page?search=%EC%9E%98%EB%82%9C%EC%B2%B4&button=');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GmarketSansLight';
+  src: url('https://noonnu.cc/font_page?search=%EC%9E%98%EB%82%9C%EC%B2%B4&button=');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.jalan {font-family: 'yg-jalnan';}
+.Gmarket {font-family: 'GmarketSansLight';}
